@@ -1,4 +1,3 @@
 GitHub on platvorm tarkvaraarenduse salvestamiseks ja koostööks Giti versioonikontrollisüsteemi abil. Seda kasutavad arendajad, ettevõtted ja kogukonnad koodi kallal töötamiseks ja avatud lähtekoodiga projektide loomiseks.
 
-
-test
+GitHubi saab kasutada koodi salvestamiseks, projektides koostöö tegemiseks ja arenduse automatiseerimiseks (näiteks GitHub Actionsiga). Seda kasutatakse veebiarenduses, rakenduste programmeerimises, masinõppes ja muudes valdkondades.
