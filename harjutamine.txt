@@ -1,5 +1,1 @@
 GitHub on platvorm tarkvaraarenduse salvestamiseks ja koostööks Giti versioonikontrollisüsteemi abil. Seda kasutavad arendajad, ettevõtted ja kogukonnad koodi kallal töötamiseks ja avatud lähtekoodiga projektide loomiseks.
-
-GitHubi saab kasutada koodi salvestamiseks, projektides koostöö tegemiseks ja arenduse automatiseerimiseks (näiteks GitHub Actionsiga). Seda kasutatakse veebiarenduses, rakenduste programmeerimises, masinõppes ja muudes valdkondades.
-
-GitHubi asutasid 2008. aastal Chris Van Straten, Pete Hewitt, Tom Prestaon-Werner ja Scott Chacon. Teenus sai avalikuks kasutamiseks kättesaadavaks 2008. aasta aprillis, pakkudes arendajatele mugavat platvormi koodi hostimiseks ja koostööks Giti versioonikontrollisüsteemi abil. GitHub sai programmeerijate ja avatud lähtekoodiga kogukondade seas kiiresti populaarseks ning 2018. aastal omandas selle Microsoft.
